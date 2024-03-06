@@ -1,0 +1,11 @@
+{
+  "name": "multidelivery",
+  "version": "1.0.0",
+  "description": "this is the v1 of multidelivery app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
